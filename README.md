@@ -50,7 +50,8 @@ RAM Antivirus is loaded with useful, functional options that allow users to quic
 ```
 rajughongade9022@gmail.com
 ```
-![ Ram_Video ](RAM_Antivirus.mp4)
+[![Video Thumbnail](RAM_Antivirus.mp4)
+
 
 # Ram Social Media
 
