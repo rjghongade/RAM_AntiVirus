@@ -47,7 +47,6 @@ RAM Antivirus is loaded with useful, functional options that allow users to quic
 [ Linkdin ](https://www.linkedin.com/in/rajendra-ghongade-07b337259?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 # Contact 
-
 ```
 rajughongade9022@gmail.com
 
