@@ -44,7 +44,7 @@ RAM Antivirus is loaded with useful, functional options that allow users to quic
 
 [Ransomware](https://ramantivirus.com/ransomware) restricts access to your computer system and demands that a ransom be paid for the restriction to be removed. Cybercriminals are simply looking for the easiest way to infect a computer system or network and use this backdoor to spread malicious content. [Ransomware](https://ramantivirus.com/ransomware) is developed by crooks who are experts in computer programming. It can get into your computer through an email attachment or through your browser if you visit a website infected with this type of malware. It can also access your computer through your network.
 
-[ Linkdin ]([https://in.linkedin.com/company/ram-ultimate-antivirus](https://www.linkedin.com/in/rajendra-ghongade-07b337259?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+[ Linkdin ](https://www.linkedin.com/in/rajendra-ghongade-07b337259?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 # Ram Social Media
 
